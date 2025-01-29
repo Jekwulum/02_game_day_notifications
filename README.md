@@ -1,7 +1,6 @@
-# 30 Days DevOps Challenge - Weather Dashboard
+# 30 Days DevOps Challenge - Game Data Notificaion System
 Day 2: Building a Game data notification system using Azure Function App, Blob Storage, EventGrid, Logic App, Outlook, and SportsData.io API
 
-# Game Data Notificaion System - DevOps Day 2 Challenge
 ![Project Structure](./DevopsChallenge_day02.drawio.png)
 
 ## Project Overview
