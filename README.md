@@ -24,7 +24,9 @@ This project automates fetching sports updates from a sports API, processes the 
 ## Prerequisites
 - Python 3.x
 - Azure Managed Identity
-- OpenWeather API key
+- Azure Account: An active Azure subscription.
+- Azure Blob Storage: To store raw JSON data.
+- SportsData API key
 
 ## Dependencies
 - python-dotenv
